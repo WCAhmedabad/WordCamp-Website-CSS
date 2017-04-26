@@ -6,3 +6,7 @@ Author URI: https://www.chetanprajapati.com
 */
 
 /*** Common ***/
+
+body{
+	border: 10px solid #000;
+}
